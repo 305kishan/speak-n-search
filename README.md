@@ -18,7 +18,7 @@ Follow these steps to set up and use the Voice Search Browser Automation Tool:
 <br>
 #### Clone Repository: 
 Clone this repository to your local machine using the following command:
-git clone [https://github.com/your-username/voice-search-browser-automation.git](https://github.com/305kishan/speak-n-search.git)
+git clone https://github.com/305kishan/speak-n-search.git
 <br>
 #### Install Dependencies: 
 Ensure you have Python installed on your system. Additionally, install the required Python packages using pip:
